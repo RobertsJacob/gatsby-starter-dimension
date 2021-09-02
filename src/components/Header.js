@@ -8,7 +8,7 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Dimension</h1>
+        <h1>Jacob Roberts</h1>
         <p>
           A fully responsive site template designed by{' '}
           <a href="https://html5up.net">HTML5 UP</a> and released
@@ -41,7 +41,7 @@ const Header = props => (
         <li>
           <button
             onClick={() => {
-              props.onOpenArticle('skills')
+              props.onOpenArticle('education')
             }}
           >
             About
