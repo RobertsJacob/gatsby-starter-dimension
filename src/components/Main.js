@@ -147,12 +147,16 @@ class Main extends React.Component {
               </a>
             </li>
             <li>
-              <a href="https://www.facebook.com/jake.roberts.1671897/" className="icon fa-facebook">
+              <a href="https://www.facebook.com/jake.roberts.1671897/" 
+                 className="icon fa-facebook"
+              >
                 <span className="label">Facebook</span>
               </a>
             </li>
             <li>
-              <a href="https://discord.gg/4jpKafvSYe" className="fab fa-discord">
+              <a href="https://discord.gg/4jpKafvSYe" 
+                 className="fab fa-discord"
+              >
                 <span className="label">Discord</span>
               </a>
             </li>
