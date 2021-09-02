@@ -23,7 +23,7 @@ const Header = props => (
         <li>
           <button
             onClick={() => {
-              props.onOpenArticle('about me')
+              props.onOpenArticle('intro')
             }}
           >
             Intro
@@ -32,7 +32,7 @@ const Header = props => (
         <li>
           <button
             onClick={() => {
-              props.onOpenArticle('work experience')
+              props.onOpenArticle('work')
             }}
           >
             Work
@@ -41,7 +41,7 @@ const Header = props => (
         <li>
           <button
             onClick={() => {
-              props.onOpenArticle('education')
+              props.onOpenArticle('about')
             }}
           >
             About
@@ -50,7 +50,7 @@ const Header = props => (
         <li>
           <button
             onClick={() => {
-              props.onOpenArticle('contact me')
+              props.onOpenArticle('contact')
             }}
           >
             Contact
