@@ -154,10 +154,10 @@ class Main extends React.Component {
               </a>
             </li>
             <li>
-              <a href="https://discord.gg/4jpKafvSYe" 
+              <a href="https://www.twitch.tv/reybinks" 
                  className="icon fa-twitch"
               >
-                <span className="label">Discord</span>
+                <span className="label">Twitch</span>
               </a>
             </li>
             <li>
