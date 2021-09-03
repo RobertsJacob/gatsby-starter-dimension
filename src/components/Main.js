@@ -155,7 +155,7 @@ class Main extends React.Component {
             </li>
             <li>
               <a href="https://discord.gg/4jpKafvSYe" 
-                 className="icon fa-discord"
+                 className="icon fa-twitch"
               >
                 <span className="label">Discord</span>
               </a>
