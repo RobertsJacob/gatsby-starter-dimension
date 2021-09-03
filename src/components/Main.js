@@ -6,6 +6,11 @@ import pic03 from '../images/pic03.jpg'
 
 class Main extends React.Component 
 class Main extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.sendEmail = this.sendEmail.bind(this);
+  }
   sendEmail(e) {
     e.preventDefault();
     alert("fuck off you nidwit")
