@@ -121,7 +121,7 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Contact Me</h2>
-         <form onSubmit={sendEmail}>
+         <form onSubmit={this.sendEmail}>
             <div className="field half first">
               <label htmlFor="name">Name</label>
               <input type="text" name="name" id="name" />
