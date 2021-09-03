@@ -155,7 +155,7 @@ class Main extends React.Component {
             </li>
             <li>
               <a href="https://discord.gg/4jpKafvSYe" 
-                 className="icon fab fa-discord"
+                 className="icon fa-discord"
               >
                 <span className="label">Discord</span>
               </a>
@@ -163,7 +163,7 @@ class Main extends React.Component {
             <li>
               <a
                 href="https://www.linkedin.com/in/jacob-roberts-loco/"
-                className="icon fab fa-linkedin"
+                className="icon fa-linkedin"
               >
                 <span className="label">LinkedIn</span>
               </a>
