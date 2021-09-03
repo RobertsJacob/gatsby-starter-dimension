@@ -8,13 +8,7 @@ class Main extends React.Component
 class Main extends React.Component {
   sendEmail(e) {
     e.preventDefault();
-
-    emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID')
-      .then((result) => {
-          console.log(result.text);
-      }, (error) => {
-          console.log(error.text);
-      });
+    alert("fuck off you nidwit")
   }
 
   render() {
