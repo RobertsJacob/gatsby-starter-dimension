@@ -3,8 +3,7 @@ import React from 'react'
 import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
-
-class Main extends React.Component 
+ 
 class Main extends React.Component {
   constructor(props) {
     super(props);
