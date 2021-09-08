@@ -43,24 +43,19 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+            I am Jacob Roberts, a 22 year old growing professional. I have a 
+            Bachelors of Arts in Psychology with a minor in Communications from 
+            the University of Northern Colorado.  I am currently working on my  
+            masters degree in Esports Business from the University of New Haven. 
+            I have a passion for video games and esports and how they can be 
+            utilitized to enhance education. I have experience in both education 
+            and esports. Working for Saint Vrain Valley School District currently 
+            as well as when I was in high school has given me unique opportunities 
+            to work within all levels of education. My work with Super League Gaming
+            has given me the chance to work on the ground floor of both esports events 
+            as well as an esports business. Merging these two while fufilling a 
+            lifelong goal of joining a top level esports team should prove to be a 
+            welcome challenge. 
           </p>
           {close}
         </article>
