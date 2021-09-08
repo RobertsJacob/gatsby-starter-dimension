@@ -10,11 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>Jacob Roberts</h1>
         <p>
-          A fully responsive site template designed by{' '}
-          <a href="https://html5up.net">HTML5 UP</a> and released
-          <br />
-          for free under the{' '}
-          <a href="https://html5up.net/license">Creative Commons</a> license.
+          Hey there! I am a growing professional in the world education and esports! To learn about me and my experience feel free to click around the site!
         </p>
       </div>
     </div>
