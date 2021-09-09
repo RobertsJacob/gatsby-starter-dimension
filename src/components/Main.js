@@ -7,7 +7,12 @@ import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
  
 class Main extends React.Component {
-   sendEmail(e) {
+   constructor(props) {
+    super(props);
+
+    this.sendEmail = this.sendEmail.bind(this);
+  }  
+  sendEmail(e) {
     e.preventDefault();
 
     emailjs.sendForm('service_fkc4onp' , 'template_vx9ny25', e.target, 'user_n2Q4XWhSVmCrKFPuHGRyG')
@@ -27,11 +32,6 @@ class Main extends React.Component {
         }}
       ></div>
     )
-  constructor(props) {
-    super(props);
-
-    this.sendEmail = this.sendEmail.bind(this);
-  }
   sendEmail(e) {
     e.preventDefault();
     alert("Thank you, your message has been sent!")
