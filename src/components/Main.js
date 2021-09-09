@@ -1,10 +1,32 @@
 import PropTypes from 'prop-types'
 import React from 'react'
+import emailjs from 'emailjs-com'
+import './ContactUs.css'
 import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
  
 class Main extends React.Component {
+   sendEmail(e) {
+    e.preventDefault();
+
+    emailjs.sendForm('service_fkc4onp' , 'template_vx9ny25', e.target, 'user_n2Q4XWhSVmCrKFPuHGRyG')
+      .then((result) => {
+          console.log(result.text);
+      }, (error) => {
+          console.log(error.text);
+      });
+  }
+
+  render() {
+    let close = (
+      <div
+        className="close"
+        onClick={() => {
+          this.props.onCloseArticle()
+        }}
+      ></div>
+    )
   constructor(props) {
     super(props);
 
