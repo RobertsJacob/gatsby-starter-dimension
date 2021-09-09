@@ -20,9 +20,6 @@ class Main extends React.Component {
       }, (error) => {
           console.log(error.text);
       });
-  }
-  sendEmail(e) {
-    e.preventDefault();
     alert("Thank you, your message has been sent!")
   }
 
