@@ -12,7 +12,7 @@ class Main extends React.Component {
 
     this.sendEmail = this.sendEmail.bind(this);
   }  
-  sendEmail(e) {
+  sendEmail(e){
     e.preventDefault();
 
     emailjs.sendForm('service_fkc4onp' , 'template_vx9ny25', e.target, 'user_n2Q4XWhSVmCrKFPuHGRyG')
