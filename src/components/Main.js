@@ -32,6 +32,7 @@ class Main extends React.Component {
         }}
       ></div>
     )
+   }
   sendEmail(e) {
     e.preventDefault();
     alert("Thank you, your message has been sent!")
