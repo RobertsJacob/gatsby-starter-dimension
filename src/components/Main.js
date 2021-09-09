@@ -21,17 +21,6 @@ class Main extends React.Component {
           console.log(error.text);
       });
   }
-
-  render() {
-    let close = (
-      <div
-        className="close"
-        onClick={() => {
-          this.props.onCloseArticle()
-        }}
-      ></div>
-    )
-   }
   sendEmail(e) {
     e.preventDefault();
     alert("Thank you, your message has been sent!")
