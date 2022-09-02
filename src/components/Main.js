@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 import React from 'react'
 import emailjs from 'emailjs-com'
-import pic01 from '../images/pic01.jpg'
+import picofme from '../images/picofme.jpeg'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
  
@@ -48,10 +48,10 @@ class Main extends React.Component {
         >
           <h2 className="major">About Me</h2>
           <span className="image main">
-            <img src={pic01} alt="" />
+            <img src={picofme} alt="" />
           </span>
           <p>
-            I am Jacob Roberts, a 22 year old growing professional. I have a 
+            I am Jacob Roberts, a 23 year old growing professional. I have a 
             Bachelors of Arts in Psychology with a minor in Communications from 
             the University of Northern Colorado.  I am currently working on my  
             masters degree in Esports Business from the University of New Haven. 
@@ -61,9 +61,11 @@ class Main extends React.Component {
             as well as when I was in high school has given me unique opportunities 
             to work within all levels of education. My work with Super League Gaming
             has given me the chance to work on the ground floor of both esports events 
-            as well as an esports business. Merging these two while fufilling a 
-            lifelong goal of joining a top level esports team should prove to be a 
-            welcome challenge. 
+            as well as an esports business. I have recently taken on the job of Varsity
+            Esports Head Coach at Windsor Charter Academy where I will be building out
+            their program while helping the kids hone their skills  in and  out of game!
+            Merging these two while fufilling a lifelong goal of joining a top level 
+            esports team should prove to be a welcome challenge. 
           </p>
           {close}
         </article>
@@ -80,10 +82,15 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+            Since starting his first job the summer after his freshman year of 
+            High School Jacob has rarely taken on opportunties outside of his 
+            long term goals. From working with robots in special education and 
+            running competitive robotics in a school district to being a referee 
+            and head coach for youth  sports Jacob managed to keep a focus on 
+            education and technologgy. As he continues to drive forward with 
+            Esports Education you can expect his current jobs  to remain within
+            those realms! Below is a list of Jacobs Work Experiences and how he 
+            has personally related them back to his overall journey.
           </p>
           <p>
             Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
@@ -187,7 +194,7 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
-                href="https://twitter.com/ReyBinksTwitch"
+                href="https://twitter.com/JacobRobertsCO"
                 className="icon fa-twitter"
               >
                 <span className="label">Twitter</span>
