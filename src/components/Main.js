@@ -96,7 +96,7 @@ class Main extends React.Component {
             Current Work Positions
           </p>
           <p>
-          Innovation Center
+          Innovation Center \n
           jjj
           </p>
           {close}
