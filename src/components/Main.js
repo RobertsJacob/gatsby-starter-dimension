@@ -165,7 +165,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">E(d)SPORTS</h2>
+          <h2 className="major">EdSPORTS</h2>
           <span className="image main">
             <img src={edsports} alt="" />
           </span>
