@@ -4,7 +4,7 @@ import emailjs from 'emailjs-com'
 import picofme from '../images/picofme.jpg'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
-import edsports from '../images/edsports.jpg
+import edsports from '../images/edsports.jpg'
  
 class Main extends React.Component {
    constructor(props) {
