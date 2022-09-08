@@ -143,19 +143,41 @@ class Main extends React.Component {
             magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
             By the way, check out my <a href="#work">awesome work</a>.
           </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
-          </p>
+          <h1>Grid table</h1>
+          <h2>Basic example</h2>
+          <table>
+  <thead>
+    <tr>
+      <th colspan="2" rowspan="1"><p>Table Headings</p></th>
+      <th colspan="1" rowspan="1"><p>Here</p></th>
+    </tr>
+    <tr>
+      <th colspan="1" rowspan="1"><p>Sub</p></th>
+      <th colspan="1" rowspan="1"><p>Headings</p></th>
+      <th colspan="1" rowspan="1"><p>Too</p></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="1" rowspan="2"><p>cell
+spans
+rows</p></td>
+      <td colspan="2" rowspan="1"><p>column spanning</p></td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1"><p>normal</p></td>
+      <td colspan="1" rowspan="1"><p>cell</p></td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1"><p>multi
+line</p><p>cells
+too</p></td>
+      <td colspan="2" rowspan="1"><p>cells can be
+<em>formatted</em>
+<strong>paragraphs</strong></p></td>
+    </tr>
+  </tbody>
+</table>
           {close}
         </article>
         
