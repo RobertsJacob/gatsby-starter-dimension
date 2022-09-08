@@ -154,10 +154,8 @@ class Main extends React.Component {
   </thead>
   <tbody>
     <tr>
-      <td colspan="1" rowspan="2"><p>cell
-spans
-rows</p></td>
-      <td colspan="2" rowspan="1"><p>column spanning</p></td>
+      <td colspan="1" rowspan="1"><p>cell spans rows</p></td>
+      <td colspan="1" rowspan="1"><p>column spanning</p></td>
     </tr>
     <tr>
       <td colspan="1" rowspan="1"><p>normal</p></td>
