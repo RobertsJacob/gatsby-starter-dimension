@@ -167,7 +167,7 @@ class Main extends React.Component {
         >
           <h2 className="major">EdSPORTS</h2>
           <span className="image main">
-            <img src={picofme} alt="" />
+            <img src={edsports} alt="" />
           </span>
           <p>
             Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
