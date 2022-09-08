@@ -159,13 +159,13 @@ class Main extends React.Component {
         </article>
         
          <article
-          id="EdSPORTS"
+          id="E(d)SPORTS"
           className={`${this.props.article === 'edsports' ? 'active' : ''} ${
             this.props.articleTimeout ? 'timeout' : ''
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">EdSPORTS</h2>
+          <h2 className="major">E(d)SPORTS</h2>
           <span className="image main">
             <img src={picofme} alt="" />
           </span>
