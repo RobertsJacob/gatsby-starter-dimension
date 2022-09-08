@@ -160,7 +160,7 @@ class Main extends React.Component {
         
          <article
           id="EdSPORTS"
-          className={`${this.props.article === 'skills' ? 'active' : ''} ${
+          className={`${this.props.article === 'edsports' ? 'active' : ''} ${
             this.props.articleTimeout ? 'timeout' : ''
           }`}
           style={{ display: 'none' }}
