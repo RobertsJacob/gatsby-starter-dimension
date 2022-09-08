@@ -167,7 +167,7 @@ class Main extends React.Component {
         >
           <h2 className="major">E(d)SPORTS</h2>
           <span className="image main">
-            <img src={Color logo with background} alt="" />
+            <img src={edsports} alt="" />
           </span>
           <p>
             Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
