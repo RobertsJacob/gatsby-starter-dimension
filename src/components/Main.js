@@ -143,18 +143,13 @@ class Main extends React.Component {
             magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
             By the way, check out my <a href="#work">awesome work</a>.
           </p>
-          <h1>Grid table</h1>
-          <h2>Basic example</h2>
+          <h2>Table of Skills</h2>
           <table>
   <thead>
     <tr>
-      <th colspan="2" rowspan="1"><p>Table Headings</p></th>
-      <th colspan="1" rowspan="1"><p>Here</p></th>
-    </tr>
-    <tr>
-      <th colspan="1" rowspan="1"><p>Sub</p></th>
-      <th colspan="1" rowspan="1"><p>Headings</p></th>
-      <th colspan="1" rowspan="1"><p>Too</p></th>
+      <th colspan="1" rowspan="1"><p>Hard Skills</p></th>
+      <th colspan="1" rowspan="1"><p></p></th>
+      <th colspan="1" rowspan="1"><p>Soft Skills</p></th>
     </tr>
   </thead>
   <tbody>
@@ -209,7 +204,8 @@ too</p></td>
           </p>
           
          <p>
-         For more information Email: <a href="mailto:jacob@edsportsedu.com">jacob@edsportsedu.com</a> or visit the <a href="https://edsportsedu.com/ ">E(d)SPORTS website</a>
+         For more information Email: <a href="mailto:jacob@edsportsedu.com">jacob@edsportsedu.com</a> 
+         or visit the <a href="https://edsportsedu.com/ ">E(d)SPORTS website</a>
          </p>
           {close}
         </article>
