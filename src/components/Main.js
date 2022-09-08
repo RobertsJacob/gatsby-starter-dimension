@@ -171,25 +171,24 @@ class Main extends React.Component {
             <img src={edsports} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+            E(d)SPORTS is a passion project attempting to bring accessible and 
+            positive interactions with Esports through public education. By
+            making E(d)SPORTS available to all schools and school districts in 
+            Colorado Jacob and E(d)SPORTS hopes to elevate both Esports Education
+            and Competitive Esports throughout the State.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+            E(d)SPORTS offers many services from consulation to hands on involvement
+            in building out Esports Programs. Through the connections Jacob has made
+            E(d)SPORTS is able to guide both competitive practices as well as provide
+            information about how to get Esports Education into the classroom. With access
+            to Esports Companies, Esports Curriculum, and Esports Scholarships E(d)SPORTS
+            is ready to help Colorado grow their K-12 Esports Programs. 
           </p>
+          
+         <p>
+         For more information Email: jacob@edsportsedu.com or visit edsportsedu.com
+         </p>
           {close}
         </article>
 
