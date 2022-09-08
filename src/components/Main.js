@@ -187,7 +187,7 @@ class Main extends React.Component {
           </p>
           
          <p>
-         For more information Email: jacob@edsportsedu.com or visit edsportsedu.com
+         For more information Email: <a href="jacob@edsportsedu.com">jacob@edsportsedu.com</a> or visit the <a href="https://edsportsedu.com/ ">E(d)SPORTS website</a>
          </p>
           {close}
         </article>
