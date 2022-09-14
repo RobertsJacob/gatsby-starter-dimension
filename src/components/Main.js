@@ -83,15 +83,15 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            Since starting his first job the summer after his freshman year of 
-            High School Jacob has rarely taken on opportunties outside of his 
+            Since starting my first job the summer after his freshman year of 
+            High School I have rarely taken on opportunties outside of my 
             long term goals. From working with robots in special education and 
             running competitive robotics in a school district to being a referee 
-            and head coach for youth  sports Jacob managed to keep a focus on 
-            education and technologgy. As he continues to drive forward with 
-            Esports Education you can expect his current jobs  to remain within
-            those realms! Below is a list of Jacobs Work Experiences and how he 
-            has personally related them back to his overall journey.
+            and head coach for youth  sports I have managed to keep a focus on 
+            education and technologgy. As I continues to drive forward with 
+            Esports Education you can expect my current and future jobs  to remain within
+            those realms! Below is a list of my Work Experiences and how I 
+            have personally related them back to my overall journey.
           </p>
           <p>
             Current Work Positions
@@ -137,13 +137,14 @@ class Main extends React.Component {
             <img src={picofme} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+            A part of the work jouney is gaining and utilizing new skills along the way. 
+            From working in various hands on and technical roles throughout my career 
+            pathway I have identified some  of the most important skills I have gained 
+            and listed them below. I have broken them  up  into "Hard Skills" and 
+            "Soft Skills" with a few that I have personally identified as bridging the gap
+            between the two.
           </p>
-          <h2>Table of Skills</h2>
+          <h2>Skills</h2>
           <table>
   <thead>
     <tr>
@@ -154,20 +155,29 @@ class Main extends React.Component {
   </thead>
   <tbody>
     <tr>
-      <td colspan="1" rowspan="1"><p>cell spans rows</p></td>
-      <td colspan="1" rowspan="1"><p>column spanning</p></td>
+      <td colspan="1" rowspan="1"><p>Google Suites</p></td>
+      <td colspan="1" rowspan="1"><p>Team Management</p></td>
+      <td colspan="1" rowspan="1"><p>Leadership</p></td>
     </tr>
     <tr>
-      <td colspan="1" rowspan="1"><p>normal</p></td>
-      <td colspan="1" rowspan="1"><p>cell</p></td>
+      <td colspan="1" rowspan="1"><p>Data Interpretation/Management</p></td>
+      <td colspan="1" rowspan="1"><p>Public Speaking/Presentations</p></td>
+      <td colspan="1" rowspan="1"><p>Communication</p></td>
     </tr>
     <tr>
-      <td colspan="1" rowspan="1"><p>multi
-line</p><p>cells
-too</p></td>
-      <td colspan="2" rowspan="1"><p>cells can be
-<em>formatted</em>
-<strong>paragraphs</strong></p></td>
+      <td colspan="1" rowspan="1"><p>Project Management</p></td>
+      <td colspan="1" rowspan="1"><p>Cooperation</p></td>
+      <td colspan="1" rowspan="1"><p>Motivation</p></td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1"><p>Event Planning</p></td>
+      <td colspan="1" rowspan="1"><p>Creative Problem Solving</p></td>
+      <td colspan="1" rowspan="1"><p>Trainable</p></td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1"><p>Programing Languages</p></td>
+      <td colspan="1" rowspan="1"><p>Supervisory Skills</p></td>
+      <td colspan="1" rowspan="1"><p>Empathy</p></td>
     </tr>
   </tbody>
 </table>
