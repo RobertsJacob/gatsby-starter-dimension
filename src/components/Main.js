@@ -105,24 +105,14 @@ class Main extends React.Component {
       education.</p></td>
     </tr>
     <tr>
-      <td colspan="1" rowspan="1"><p>Data Interpretation/Management</p></td>
-      <td colspan="1" rowspan="1"><p>Public Speaking/Presentations</p></td>
+      <td colspan="1" rowspan="1"><p>Windsor Charter Academy</p></td>
+      <td colspan="1" rowspan="1"><p>High School Esports Head Coach/Advisor</p></td>
       <td colspan="1" rowspan="1"><p>Communication</p></td>
     </tr>
     <tr>
-      <td colspan="1" rowspan="1"><p>Project Management</p></td>
-      <td colspan="1" rowspan="1"><p>Cooperation</p></td>
+      <td colspan="1" rowspan="1"><p>University of New Haven</p></td>
+      <td colspan="1" rowspan="1"><p>MS Esports Business Program Assistant</p></td>
       <td colspan="1" rowspan="1"><p>Motivation</p></td>
-    </tr>
-    <tr>
-      <td colspan="1" rowspan="1"><p>Event Planning</p></td>
-      <td colspan="1" rowspan="1"><p>Creative Problem Solving</p></td>
-      <td colspan="1" rowspan="1"><p>Trainable</p></td>
-    </tr>
-    <tr>
-      <td colspan="1" rowspan="1"><p>Programing Languages</p></td>
-      <td colspan="1" rowspan="1"><p>Supervisory Skills</p></td>
-      <td colspan="1" rowspan="1"><p>Empathy</p></td>
     </tr>
   </tbody>
 </table>
