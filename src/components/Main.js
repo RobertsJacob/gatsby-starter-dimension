@@ -97,9 +97,12 @@ class Main extends React.Component {
           <table>
           <tbody>
     <tr>
-      <td colspan="1" rowspan="1"><p>Google Suites</p></td>
-      <td colspan="1" rowspan="1"><p>Team Management</p></td>
-      <td colspan="1" rowspan="1"><p>Leadership</p></td>
+      <td colspan="1" rowspan="2"><p>Innovation Center of SVVSD</p></td>
+      <td colspan="1" rowspan="2"><p>Robotics Program Manager</p></td>
+      <td colspan="1" rowspan="2"><p>By working with Robotics opportunties for K-12 I am diving 
+      in many skills I can transfer to Esports Education. By developing knowledge in different Technologies
+      and for differe age levels I am becoming more flexible in my ability to provide strong and equitable
+      education.</p></td>
     </tr>
     <tr>
       <td colspan="1" rowspan="1"><p>Data Interpretation/Management</p></td>
