@@ -2,11 +2,10 @@ import PropTypes from 'prop-types'
 import React from 'react'
 import emailjs from 'emailjs-com'
 import picofme from '../images/picofme.jpg'
-import pic02 from '../images/pic02.jpg'
-import pic03 from '../images/pic03.jpg'
 import edsports from '../images/edsports.jpg'
 import workexperience from '../images/workexperience.jpg'
 import education from '../images/education.jpg'
+import skillss from '../images/skillss.jpg'
  
 class Main extends React.Component {
    constructor(props) {
@@ -210,7 +209,7 @@ class Main extends React.Component {
         >
           <h2 className="major">Skills</h2>
           <span className="image main">
-            <img src={picofme} alt="" />
+            <img src={skillss} alt="" />
           </span>
           <p>
             A part of the work jouney is gaining and utilizing new skills along the way. 
