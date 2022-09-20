@@ -95,9 +95,18 @@ class Main extends React.Component {
           </p>
           <h2>Current Positions</h2>
           <table>
+          <thead>
+    <tr>
+      <th colspan="1" rowspan="1"><p>Company</p></th>
+      <th colspan="1" rowspan="1"><p>Time in Position</p></th>
+      <th colspan="1" rowspan="1"><p>Role</p></th>
+      <th colspan="1" rowspan="1"><p>Connection to Esports Ed</p></th>
+    </tr>
+  </thead>
           <tbody>
     <tr>
       <td colspan="1" rowspan="1"><p>Innovation Center of SVVSD</p></td>
+      <td colspan="1" rowspan="1"><p>6/2021 to  Present</p></td>
       <td colspan="1" rowspan="1"><p>Robotics Program Manager</p></td>
       <td colspan="1" rowspan="1"><p>By working with Robotics opportunties for K-12 I am diving 
       in many skills I can transfer to Esports Education. By developing knowledge in different Technologies
@@ -106,13 +115,61 @@ class Main extends React.Component {
     </tr>
     <tr>
       <td colspan="1" rowspan="1"><p>Windsor Charter Academy</p></td>
+      <td colspan="1" rowspan="1"><p>8/2022 to  Present</p></td>
       <td colspan="1" rowspan="1"><p>High School Esports Head Coach/Advisor</p></td>
       <td colspan="1" rowspan="1"><p>Communication</p></td>
     </tr>
     <tr>
       <td colspan="1" rowspan="1"><p>University of New Haven</p></td>
+      <td colspan="1" rowspan="1"><p>1/2022 to  Present</p></td>
       <td colspan="1" rowspan="1"><p>MS Esports Business Program Assistant</p></td>
       <td colspan="1" rowspan="1"><p>Motivation</p></td>
+    </tr>
+  </tbody>
+</table>
+    <h2>Previous Positions</h2>
+          <table>
+            <thead>
+    <tr>
+      <th colspan="1" rowspan="1"><p>Company</p></th>
+      <th colspan="1" rowspan="1"><p>Time in Position</p></th>
+      <th colspan="1" rowspan="1"><p>Role</p></th>
+      <th colspan="1" rowspan="1"><p>Connection to Esports Ed</p></th>
+    </tr>
+  </thead>
+          <tbody>
+    <tr>
+      <td colspan="1" rowspan="1"><p>Super League Gaming</p></td>
+      <td colspan="1" rowspan="1"><p>10/2018 to  12/2021</p></td>
+      <td colspan="1" rowspan="1"><p>Event Lead</p></td>
+      <td colspan="1" rowspan="1"><p>By working with Robotics opportunties for K-12 I am diving 
+      in many skills I can transfer to Esports Education. By developing knowledge in different Technologies
+      and for differe age levels I am becoming more flexible in my ability to provide strong and equitable
+      education.</p></td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1"><p>Indian Peaks Elementary</p></td>
+      <td colspan="1" rowspan="1"><p>3/2021 to  6/2021</p></td>
+      <td colspan="1" rowspan="1"><p>iLab Media Tech</p></td>
+      <td colspan="1" rowspan="1"><p>Communication</p></td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1"><p>Twin Peaks Youthh Sports</p></td>
+      <td colspan="1" rowspan="1"><p>8/2014 to  10/2020</p></td>
+      <td colspan="1" rowspan="1"><p>Head Referee / Field Supervisor</p></td>
+      <td colspan="1" rowspan="1"><p>Motivation</p></td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1"><p>University of Northern Colorado</p></td>
+      <td colspan="1" rowspan="1"><p>8/2020 to  12/2020</p></td>
+      <td colspan="1" rowspan="1"><p>Research Associate</p></td>
+      <td colspan="1" rowspan="1"><p>Communication</p></td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1"><p>Innovtion Center of SVVSD</p></td>
+      <td colspan="1" rowspan="1"><p>5/2014 to  10/2018</p></td>
+      <td colspan="1" rowspan="1"><p>Student Designer/Project Lead</p></td>
+      <td colspan="1" rowspan="1"><p>Communication</p></td>
     </tr>
   </tbody>
 </table>
