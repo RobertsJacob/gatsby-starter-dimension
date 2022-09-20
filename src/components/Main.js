@@ -5,6 +5,7 @@ import picofme from '../images/picofme.jpg'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
 import edsports from '../images/edsports.jpg'
+import workexperience from '../images/workexperience.jpg'
  
 class Main extends React.Component {
    constructor(props) {
@@ -80,7 +81,7 @@ class Main extends React.Component {
         >
           <h2 className="major">Work Experience</h2>
           <span className="image main">
-            <img src={pic02} alt="" />
+            <img src={workexperience} alt="" />
           </span>
           <p>
             Since starting my first job the summer after his freshman year of 
