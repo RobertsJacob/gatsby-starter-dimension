@@ -93,12 +93,36 @@ class Main extends React.Component {
             those realms! Below is a list of my Work Experiences and how I 
             have personally related them back to my overall journey.
           </p>
-          <p>
-            Current Work Positions
-          </p>
-          <p>
-          Innovation Center
-          </p>
+          <h2>Current Positions</h2>
+          <table>
+          <tbody>
+    <tr>
+      <td colspan="1" rowspan="1"><p>Google Suites</p></td>
+      <td colspan="1" rowspan="1"><p>Team Management</p></td>
+      <td colspan="1" rowspan="1"><p>Leadership</p></td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1"><p>Data Interpretation/Management</p></td>
+      <td colspan="1" rowspan="1"><p>Public Speaking/Presentations</p></td>
+      <td colspan="1" rowspan="1"><p>Communication</p></td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1"><p>Project Management</p></td>
+      <td colspan="1" rowspan="1"><p>Cooperation</p></td>
+      <td colspan="1" rowspan="1"><p>Motivation</p></td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1"><p>Event Planning</p></td>
+      <td colspan="1" rowspan="1"><p>Creative Problem Solving</p></td>
+      <td colspan="1" rowspan="1"><p>Trainable</p></td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="1"><p>Programing Languages</p></td>
+      <td colspan="1" rowspan="1"><p>Supervisory Skills</p></td>
+      <td colspan="1" rowspan="1"><p>Empathy</p></td>
+    </tr>
+  </tbody>
+</table>
           {close}
         </article>
 
@@ -146,6 +170,7 @@ class Main extends React.Component {
           </p>
           <h2>Skills</h2>
           <table>
+          
   <thead>
     <tr>
       <th colspan="1" rowspan="1"><p>Hard Skills</p></th>
