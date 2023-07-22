@@ -8,9 +8,9 @@ const SecondPage = () => (
   <Layout>
     <h1>Here are my Business Cards</h1>
     <h2>Edsports</h2>
-              <span className="image main">
-            <img src={card} alt="" />
-            </span>
+    <div>
+    <img style={{ width: 500, height: 600 }} src={card} alt="" />
+    </div>
     <p>Not finding what you are looking for?</p>
     <Link to="/">Go to the homepage</Link>
   </Layout>
