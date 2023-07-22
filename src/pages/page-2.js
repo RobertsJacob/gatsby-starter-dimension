@@ -10,6 +10,7 @@ const SecondPage = () => (
     <h2>Edsports</h2>
               <span className="image main">
             <img src={education} alt="" />
+            </span>
     <p>Not finding what you are looking for?</p>
     <Link to="/">Go to the homepage</Link>
   </Layout>
