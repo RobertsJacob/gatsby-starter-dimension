@@ -16,7 +16,7 @@ class Main extends React.Component {
   sendEmail(e){
     e.preventDefault();
 
-    emailjs.sendForm('service_fkc4onp' , 'template_w9d5zak', e.target, 'user_n2Q4XWhSVmCrKFPuHGRyG')
+    emailjs.sendForm('service_yycpr1z' , 'template_w9d5zak', e.target, 'user_n2Q4XWhSVmCrKFPuHGRyG')
       .then((result) => {
           console.log(result.text);
       }, (error) => {
