@@ -9,7 +9,7 @@ const SecondPage = () => (
     <h1>Here are my Business Cards</h1>
     <h2>Edsports</h2>
     <div>
-    <img style={{ width: 250, height: 300 }} src={card} alt="" />
+    <img style={{ width: 360, height: 432 }} src={card} alt="" />
     </div>
     <p>Not finding what you are looking for?</p>
     <Link to="/">Go to the homepage</Link>
